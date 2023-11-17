@@ -12,6 +12,14 @@
   </a>
 </p>
 
+<p align='center'>
+  📫 You can reach me here: <a href='mailto:j1dev@proton.me'>j1dev@proton.me</a>
+</p>
+<p align="center"> ❗️ About to start contributing to open source projects.</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=J1Loop&show_icons=true&count_private=true&theme=dark" width="350">
+</p>
+
 <p align="center">
   💻 My machine<br><br>
   <img src="https://img.shields.io/badge/apple-181717.svg?&style=for-the-badge&logo=apple&logoColor=white&logoWidth=20" />
@@ -21,9 +29,7 @@
   <img src="https://img.shields.io/badge/Display-16%22-181717.svg?&style=for-the-badge" alt="Display"/>
 </p>
 
-<p align='center'>
-  📫 You can reach me here: <a href='mailto:j1dev@proton.me'>j1dev@proton.me</a>
-</p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=J1Loop&label=Profile+views&base=643" alt="Visitor counter">
