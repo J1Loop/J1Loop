@@ -17,7 +17,7 @@
 </p>
 <p align="center"> ❗️ About to start contributing to open source projects.</p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=J1Loop&show_icons=true&count_private=true&theme=dark" width="350">
+  <img src="https://github-readme-stats.vercel.app/api?username=J1Loop&show_icons=true&count_private=true&theme=auto" width="350">
 </p>
 
 <p align="center">
