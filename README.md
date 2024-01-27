@@ -15,11 +15,11 @@
 <p align='center'>
   📫 You can reach me here: <a href='mailto:j1dev@proton.me'>j1dev@proton.me</a>
 </p>
-<p align="center"> ❗️ About to start contributing to open source projects.</p>
+<!-- <p align="center"> ❗️ About to start contributing to open source projects.</p> -->
 
-<!-- <p align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=J1Loop&show_icons=true&count_private=true&theme=auto" width="350">
-</p> -->
+</p>
 
 <p align="center">
   💻 My machine<br><br>
