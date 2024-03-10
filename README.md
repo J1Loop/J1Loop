@@ -31,43 +31,28 @@
 </p>
 
 
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=J1Loop&label=Profile+views&base=643" alt="Visitor counter">
-</p>
-
 <details>
   <summary>📃 Resume</summary>
 
 ## Education
 
-- 📖 **Full-Stack Development**\
-📅 Apr 2022 - Jul 2022\
-📍 [**ID Bootcamps**](https://iddigitalschool.com/bootcamps/) - Madrid
+- 📖 **Responsive Web Design**\
+📅 Jan 2022 - Feb 2022\
+📍 [**freeCodeCamp**](https://www.freecodecamp.org/) - Remote
 
 - 📖 **Javascript Algorithms and Data Structures**\
 📅 Feb 2022 - Mar 2022\
 📍 [**freeCodeCamp**](https://www.freecodecamp.org/) - Remote
 
-- 📖 **Responsive Web Design**\
-📅 Jan 2022 - Feb 2022\
-📍 [**freeCodeCamp**](https://www.freecodecamp.org/) - Remote
+- 📖 **Full-Stack Development**\
+📅 Apr 2022 - Jul 2022\
+📍 [**ID Bootcamps**](https://iddigitalschool.com/bootcamps/) - Madrid
+
+- 📖 **Cloud & DevOps: Continuous Transformation**\
+📅 Dec 2023 - Feb 2024\
+📍 [**MIT Professional Education**](https://professional.mit.edu/course-catalog/cloud-devops-continuous-transformation) - Remote
 
 ## Experience
-
-<img align="right" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" >
-<img align="right" src="https://img.shields.io/badge/Ruby%20on%20Rails-D30001?style=flat&logo=Ruby on Rails&logoColor=white&logoWidth=20" alt="Ruby on Rails" />
-<img align="right" src="https://img.shields.io/badge/NodeJS-339933?style=flat&logo=Node.js&logoColor=white&logoWidth=20" alt="NodeJS" />
-<img align="right" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-<img align="right" src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazon-AWS&logoColor=goldenrod&logoWidth=20" alt="AWS" />
-<img align="right" src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white&logoWidth=20" alt="Docker" />
-<img align="right" src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white" alt="Github" />
-<img align="right" src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" />
-<img align="right" src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=Sass&logoColor=white&logoWidth=20" alt="Sass" />
-
-👨‍💻 **Full-Stack Developer**\
-📅  Jul 2023 - Today\
-📍 **Global Alumni** - 🇪🇸 Madrid
 
 <img align="right" src="https://img.shields.io/badge/NodeJS-339933?style=flat&logo=Node.js&logoColor=white&logoWidth=20" alt="NodeJS" />
 <img align="right" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
@@ -80,3 +65,17 @@
 👨‍💻 **Full-Stack Developer**\
 📅 Oct 2022 - Jul 2023\
 📍 **Booboo** - 🇪🇸 Pinto, Madrid
+
+<img align="right" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" >
+<img align="right" src="https://img.shields.io/badge/Rails-D30001?style=flat&logo=Ruby on Rails&logoColor=white&logoWidth=20" alt="Ruby on Rails" />
+<img align="right" src="https://img.shields.io/badge/NodeJS-339933?style=flat&logo=Node.js&logoColor=white&logoWidth=20" alt="NodeJS" />
+<img align="right" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img align="right" src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazon-AWS&logoColor=goldenrod&logoWidth=20" alt="AWS" />
+<img align="right" src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white&logoWidth=20" alt="Docker" />
+<img align="right" src="https://img.shields.io/badge/Actions-181717?style=flat&logo=github&logoColor=white" alt="Github Actions" />
+<img align="right" src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" />
+<img align="right" src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=Sass&logoColor=white&logoWidth=20" alt="Sass" />
+
+👨‍💻 **Full-Stack Developer**\
+📅  Jul 2023 - Today\
+📍 **Global Alumni** - 🇪🇸 Madrid
