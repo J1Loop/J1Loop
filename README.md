@@ -54,27 +54,41 @@
 
 ## Experience
 
-<img align="right" src="https://img.shields.io/badge/NodeJS-339933?style=flat&logo=Node.js&logoColor=white&logoWidth=20" alt="NodeJS" />
-<img align="right" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-<img align="right" src="https://img.shields.io/badge/Angular-white?style=flat&logo=Angular&logoColor=E23237" alt="Angular" />
-<img align="right" src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazon-AWS&logoColor=goldenrod&logoWidth=20" alt="AWS" />
-<img align="right" src="https://img.shields.io/badge/Gitlab-FC6D26?style=flat&logo=Gitlab&logoColor=white" alt="Gitlab" />
-<img align="right" src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white&logoWidth=20" alt="Jenkins" />
-<img align="right" src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=Sass&logoColor=white&logoWidth=20" alt="Sass" />
+<div align="right">
+  <img align="right" src="https://img.shields.io/badge/NodeJS-339933?style=flat&logo=Node.js&logoColor=white&logoWidth=20" alt="NodeJS" />
+  <img align="right" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img align="right" src="https://img.shields.io/badge/Angular-white?style=flat&logo=Angular&logoColor=E23237" alt="Angular" />
+  <img align="right" src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazon-AWS&logoColor=goldenrod&logoWidth=20" alt="AWS" />
+  <img align="right" src="https://img.shields.io/badge/Gitlab-FC6D26?style=flat&logo=Gitlab&logoColor=white" alt="Gitlab" />
+</div>
+
+<br>
+
+<div align="right">
+  <img align="right" src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white&logoWidth=20" alt="Jenkins" />
+  <img align="right" src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=Sass&logoColor=white&logoWidth=20" alt="Sass" />
+</div>
 
 👨‍💻 **Full-Stack Developer**\
 📅 Oct 2022 - Jul 2023\
 📍 **Booboo** - 🇪🇸 Pinto, Madrid
 
-<img align="right" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" >
-<img align="right" src="https://img.shields.io/badge/Rails-D30001?style=flat&logo=Ruby on Rails&logoColor=white&logoWidth=20" alt="Ruby on Rails" />
-<img align="right" src="https://img.shields.io/badge/NodeJS-339933?style=flat&logo=Node.js&logoColor=white&logoWidth=20" alt="NodeJS" />
-<img align="right" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-<img align="right" src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazon-AWS&logoColor=goldenrod&logoWidth=20" alt="AWS" />
-<img align="right" src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white&logoWidth=20" alt="Docker" />
-<img align="right" src="https://img.shields.io/badge/Actions-181717?style=flat&logo=github&logoColor=white" alt="Github Actions" />
-<img align="right" src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" />
-<img align="right" src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=Sass&logoColor=white&logoWidth=20" alt="Sass" />
+<div align=right>
+  <img align="right" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" >
+  <img align="right" src="https://img.shields.io/badge/Rails-D30001?style=flat&logo=Ruby on Rails&logoColor=white&logoWidth=20" alt="Ruby on Rails" />
+  <img align="right" src="https://img.shields.io/badge/NodeJS-339933?style=flat&logo=Node.js&logoColor=white&logoWidth=20" alt="NodeJS" />
+  <img align="right" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img align="right" src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazon-AWS&logoColor=goldenrod&logoWidth=20" alt="AWS" />  
+</div>
+
+<br>
+
+<div align=right>
+  <img align="right" src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white&logoWidth=20" alt="Docker" />
+  <img align="right" src="https://img.shields.io/badge/Actions-181717?style=flat&logo=github&logoColor=white" alt="Github Actions" />
+  <img align="right" src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" />
+  <img align="right" src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=Sass&logoColor=white&logoWidth=20" alt="Sass" />
+</div>
 
 👨‍💻 **Full-Stack Developer**\
 📅  Jul 2023 - Today\
