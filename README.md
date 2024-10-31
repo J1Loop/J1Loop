@@ -30,3 +30,19 @@
 <div align="center">
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=J1Loop&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
 </div>
+
+---
+
+#### Packages I maintain...
+
+| **Project** | **GitHub Stars**              | **PyPI Downloads**                  | **Open Issues**                 | **Open Pull Requests**              |
+| ----------- | ----------------------------- | ----------------------------------- | ------------------------------- | ----------------------------------- |
+| [quipus]    | ![GitHub stars][quipus-stars] | ![PyPI downloads][quipus-downloads] | ![GitHub issues][quipus-issues] | ![GitHub pull requests][quipus-prs] |
+
+
+
+[quipus]: https://github.com/Monkey-Market/quipus
+[quipus-stars]: https://img.shields.io/github/stars/monkey-market/quipus?style=social
+[quipus-downloads]: https://img.shields.io/pypi/dm/quipus
+[quipus-issues]: https://img.shields.io/github/issues/monkey-market/quipus
+[quipus-prs]: https://img.shields.io/github/issues-pr/monkey-market/quipus
