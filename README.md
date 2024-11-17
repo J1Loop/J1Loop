@@ -17,7 +17,7 @@
 </p>
 
 <p align='center'>
-  Or you can check out my website: <a href='www.1loop.dev'>www.1loop.dev</a>
+  Or you can check out my website: <a href='https://1loop.dev' target='_blank'>www.1loop.dev</a>
 </p>
 
 ---
