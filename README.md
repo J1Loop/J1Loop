@@ -16,6 +16,12 @@
   📫 You can reach me here: <a href='mailto:j1dev@proton.me'>j1dev@proton.me</a>
 </p>
 
+<p align='center'>
+  Or you can check out my website: <a href='www.1loop.dev'>www.1loop.dev</a>
+</p>
+
+---
+
 <p align="center">
   💻 My machine
   <br>
