@@ -46,9 +46,15 @@
 | [quipus]    | ![GitHub stars][quipus-stars] | ![PyPI downloads][quipus-downloads] | ![GitHub issues][quipus-issues] | ![GitHub pull requests][quipus-prs] |
 
 
-
 [quipus]: https://github.com/Monkey-Market/quipus
 [quipus-stars]: https://img.shields.io/github/stars/monkey-market/quipus?style=social
 [quipus-downloads]: https://img.shields.io/pypi/dm/quipus
 [quipus-issues]: https://img.shields.io/github/issues/monkey-market/quipus
 [quipus-prs]: https://img.shields.io/github/issues-pr/monkey-market/quipus
+
+---
+
+#### Latest blog posts
+
+<!-- BLOG-POSTS-START -->
+<!-- BLOG-POSTS-END -->

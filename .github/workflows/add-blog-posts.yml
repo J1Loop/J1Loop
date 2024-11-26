@@ -1,0 +1,36 @@
+name: Update README with Blog Posts
+
+on:
+  schedule:
+    - cron: '0 0 */3 * *' 
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install feedparser
+        run: pip install feedparser
+
+      - name: Update README script
+        run: python build_readme.py
+
+      - name: Commit changes
+        run: |
+          git config user.name "${{ secrets.USERNAME_GITHUB }}"
+          git config user.email "${{ secrets.EMAIL_GITHUB }}"
+          git add README.md
+          git commit -m "[BOT] Update README with latest blog posts" || echo "No changes to commit!"
+          git push
