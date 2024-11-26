@@ -57,4 +57,9 @@
 #### Latest blog posts
 
 <!-- BLOG-POSTS-START -->
+| **Post Title** | **Post Description** | **Date Published** |
+| -------------- | -------------------- | ------------------ |
+| [Setting Up Nginx to Serve Your Next.js App](https://1loop.dev/blog/setting-up-nginx) | Learn how to use Nginx as a reverse proxy to serve your Next.js app efficiently and securely. | 25 Nov 2024 |
+| [Deploying a Next.js App on DigitalOcean: A Beginner's Guide](https://1loop.dev/blog/deploy-nextjs-to-digitalocean) | Step-by-step guide on deploying a Next.js app on DigitalOcean. From droplet setup to securing your deployment. | 19 Nov 2024 |
+| [My Journey as a Developer and Why I Decided to Build This Website](https://1loop.dev/blog/my-journey-as-a-developer) | First post on my new site. Sharing my journey as a developer and the motivation behind this website. | 17 Nov 2024 |
 <!-- BLOG-POSTS-END -->
