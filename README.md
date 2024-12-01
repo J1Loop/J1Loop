@@ -59,6 +59,7 @@
 <!-- BLOG-POSTS-START -->
 | **Post Title** | **Post Description** | **Date Published** |
 | -------------- | -------------------- | ------------------ |
+| [Automating Deployments with GitHub Actions](https://1loop.dev/blog/cd-with-github-actions) | Learn how to streamline your workflow by automating your Next.js app deployments with GitHub Actions. | 29 Nov 2024 |
 | [Securing Your Next.js App with Fail2Ban](https://1loop.dev/blog/security-with-fail2ban) | Learn how to protect your Next.js deployment from brute-force attacks and unauthorized access with Fail2Ban. | 27 Nov 2024 |
 | [Setting Up Nginx to Serve Your Next.js App](https://1loop.dev/blog/setting-up-nginx) | Learn how to use Nginx as a reverse proxy to serve your Next.js app efficiently and securely. | 25 Nov 2024 |
 | [Deploying a Next.js App on DigitalOcean: A Beginner's Guide](https://1loop.dev/blog/deploy-nextjs-to-digitalocean) | Step-by-step guide on deploying a Next.js app on DigitalOcean. From droplet setup to securing your deployment. | 19 Nov 2024 |
