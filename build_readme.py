@@ -23,7 +23,7 @@ def fetch_blog_entries(feed_url: str, max_posts: int = 5) -> list[dict[str, str]
     feed = feedparser.parse(feed_url)
     posts = []
 
-    for entry in feed.entries[:max_posts]:
+    for entry in feed.entries:
         formatted_date = format_date(entry.published)
         posts.append(
             {
@@ -37,7 +37,8 @@ def fetch_blog_entries(feed_url: str, max_posts: int = 5) -> list[dict[str, str]
             }
         )
 
-        posts.sort(key=lambda x: x["publish_order"], reverse=True)
+    posts.sort(key=lambda x: x["publish_order"], reverse=True)
+    posts = posts[:max_posts]
 
     return posts
 
