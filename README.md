@@ -59,9 +59,9 @@
 <!-- BLOG-POSTS-START -->
 | **Post Title** | **Post Description** | **Date Published** |
 | -------------- | -------------------- | ------------------ |
-| [Automating Deployments with GitHub Actions](https://1loop.dev/blog/cd-with-github-actions) | Learn how to streamline your workflow by automating your Next.js app deployments with GitHub Actions. | 29 Nov 2024 |
-| [Securing Your Next.js App with Fail2Ban](https://1loop.dev/blog/security-with-fail2ban) | Learn how to protect your Next.js deployment from brute-force attacks and unauthorized access with Fail2Ban. | 27 Nov 2024 |
-| [Setting Up Nginx to Serve Your Next.js App](https://1loop.dev/blog/setting-up-nginx) | Learn how to use Nginx as a reverse proxy to serve your Next.js app efficiently and securely. | 25 Nov 2024 |
-| [Deploying a Next.js App on DigitalOcean: A Beginner's Guide](https://1loop.dev/blog/deploy-nextjs-to-digitalocean) | Step-by-step guide on deploying a Next.js app on DigitalOcean. From droplet setup to securing your deployment. | 19 Nov 2024 |
-| [My Journey as a Developer and Why I Decided to Build This Website](https://1loop.dev/blog/my-journey-as-a-developer) | First post on my new site. Sharing my journey as a developer and the motivation behind this website. | 17 Nov 2024 |
+| [Automating Deployments with GitHub Actions](https://1loop.dev/blog/cd-with-github-actions) | Simplify your deployment with GitHub Actions. How to automate your Next.js app deployment and maintain a smooth CI/CD pipeline. | 29 Nov 2024 |
+| [Securing Your Next.js App with Fail2Ban](https://1loop.dev/blog/security-with-fail2ban) | Keep your app safe from brute-force attacks and unauthorized access with Fail2Ban. How to set up an additional layer of security for your server. | 27 Nov 2024 |
+| [Setting Up Nginx to Serve Your Next.js App](https://1loop.dev/blog/setting-up-nginx) | Boost performance, add flexibility, and improve security with Nginx as a reverse proxy to serve your app. | 25 Nov 2024 |
+| [Deploying a Next.js App on DigitalOcean: A Beginner's Guide](https://1loop.dev/blog/deploy-nextjs-to-digitalocean) | New to deployment? Follow this step-by-step guide to get your Next.js app up and running on DigitalOcean, from setting up droplets to securing your application. | 19 Nov 2024 |
+| [My Journey as a Developer and Why I Decided to Build This Website](https://1loop.dev/blog/my-journey-as-a-developer) | In this post, I reflect on my journey as a developer, the challenges I’ve faced, and the motivations behind building this website. A personal take on growth and passion. | 17 Nov 2024 |
 <!-- BLOG-POSTS-END -->
