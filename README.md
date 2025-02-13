@@ -33,10 +33,6 @@
   <img src="https://img.shields.io/badge/Display-16%22-181717.svg?&style=for-the-badge" alt="Display"/>
 </p>
 
-<div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=J1Loop&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
-</div>
-
 ---
 
 #### Packages I maintain...
