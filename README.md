@@ -33,8 +33,8 @@
   <img src="https://img.shields.io/badge/Display-16%22-181717.svg?&style=for-the-badge" alt="Display"/>
 </p>
 
+<!--
 ---
-
 #### Packages I maintain...
 
 | **Project** | **GitHub Stars**              | **PyPI Downloads**                  | **Open Issues**                 | **Open Pull Requests**              |
@@ -47,7 +47,7 @@
 [quipus-downloads]: https://img.shields.io/pypi/dm/quipus
 [quipus-issues]: https://img.shields.io/github/issues/monkey-market/quipus
 [quipus-prs]: https://img.shields.io/github/issues-pr/monkey-market/quipus
-
+-->
 ---
 
 #### Latest blog posts
